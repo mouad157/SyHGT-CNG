@@ -1,0 +1,13 @@
+/__pycache__
+model/__pycache__/*
+components/__pycache__/*
+bert_fine_tuned_model/*
+data/*
+
+cached_dev_bert-base-uncased_384
+cached_train_bert-base-uncased_384
+runs/*
+tmp/*
+exp/
+
+prediction.csv
